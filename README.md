@@ -35,18 +35,18 @@ El servidor tiene las siguientes funcionalidades:
 
 
 ## Estructura del Proyecto
-      ```sh
-      abracadabra-juego/
-      ├── assets/
-      │   ├── fondo.jpg
-      │   ├── sombrero.png
-      │   ├── conejito.jpeg
-      │   ├── voldemort.jpeg
-      │   ├── who.jpeg
-      ├── app.js
-      ├── index.html
-      └── README.md
-
+   ```sh
+   abracadabra-juego/
+   ├── assets/
+   │   ├── fondo.jpg
+   │   ├── sombrero.png
+   │   ├── conejito.jpeg
+   │   ├── voldemort.jpeg
+   │   ├── who.jpeg
+   ├── app.js
+   ├── index.html
+   └── README.md
+   ```
 - assets/: Carpeta que contiene las imágenes utilizadas en el sitio web.
 - app.js: Archivo principal que configura y ejecuta el servidor Express.
 - index.html: Página principal del sitio web con la galería de sombreros.
